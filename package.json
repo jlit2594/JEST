@@ -1,0 +1,28 @@
+{
+  "type": "module",
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlit2594/JEST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlit2594/JEST/issues"
+  },
+  "homepage": "https://github.com/jlit2594/JEST#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "babel-jest": "^28.1.2",
+    "inquirer": "^9.0.0",
+    "ts-jest": "^28.0.5"
+  }
+}
