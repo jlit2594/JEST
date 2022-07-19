@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "babel-jest": "^28.1.2",
-    "inquirer": "^9.0.0",
+    "inquirer": "^8.2.4",
     "ts-jest": "^28.0.5"
   }
 }
